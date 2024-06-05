@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherBuddy</string>
+    <string name="city">City</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="your_personal_weather_companion">Your Personal Weather Buddy</string>
+    <string name="created_by_ankur_kushwaha">Created by <b>Ankur Kushwaha</b></string>
+    <string name="enter_your_city_name">Enter Your City Name</string>
+    <string name="save">Save</string>
+</resources>
