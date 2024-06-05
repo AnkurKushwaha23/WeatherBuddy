@@ -31,7 +31,7 @@ class MainViewModel(
 
     fun fetchData(city: String) {
         viewModelScope.launch(Dispatchers.IO) {
-            repository.getWeather(city, "ca8e31cd7d60af7fd9c018e3d14a5eef", "metric")
+            repository.getWeather(city, "Apikey", "metric")
         }
 
     }
