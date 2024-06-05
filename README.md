@@ -20,10 +20,6 @@ WeatherBuddy is an Android application built using Kotlin that provides users wi
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
