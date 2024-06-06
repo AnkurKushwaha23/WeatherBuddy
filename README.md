@@ -25,3 +25,12 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
 - [Retrofit](https://square.github.io/retrofit/) for simplifying HTTP requests.
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) for providing a robust and scalable architecture.
+
+![Screenshot_20240606-080738](https://github.com/AnkurKushwaha23/WeatherBuddy/assets/157258878/957c5a6d-238e-4c5b-bd4c-66249805d3a3)
+![Screenshot_20240606-080809](https://github.com/AnkurKushwaha23/WeatherBuddy/assets/157258878/644d9386-0674-4705-8b92-530e4f714b04)
+
+
+
+
+
+
